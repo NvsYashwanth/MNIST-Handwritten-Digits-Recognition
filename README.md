@@ -9,6 +9,8 @@ containing a value 0 - 255 with its grayscale value.
 
 ![](https://github.com/NvsYashwanth/MNIST-Handwritten-Digits-Recognition/blob/master/images/samples.png)
 
+It is a subset of a larger set available from NIST.
+The digits have been size-normalized and centered in a fixed-size image.
 
 
 
