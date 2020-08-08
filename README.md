@@ -12,6 +12,8 @@ containing a value 0 - 255 with its grayscale value.
 It is a subset of a larger set available from NIST.
 The digits have been size-normalized and centered in a fixed-size image.
 
+Thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges.
+
 
 
 
