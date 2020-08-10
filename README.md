@@ -1,4 +1,4 @@
-# MNIST-Handwritten-Digits-Recognition [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)
+# MNIST-Handwritten-Digits-Recognition        [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)       [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ## MNIST dataset
 
 The `MNIST` database is available at http://yann.lecun.com/exdb/mnist/
