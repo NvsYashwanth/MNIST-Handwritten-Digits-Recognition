@@ -19,6 +19,7 @@ Thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges.
 
 
 ## Results
+***Model - 1 : FCNN***
 * A validation dataset of size 12,000 was deduced from the Training dataset with its size being changed to 48,000.
 * This linear model uses 784 nodes at input layer, 512, 256 nodes in the first and second hidden layers respectively, with ouput layer of 10 nodes (10 classes).
 * The test accuracy is ***98%*** (***This result uses dropout probability of 20%***)
