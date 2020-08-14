@@ -32,3 +32,7 @@ Thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges.
 * Finally, 3 fully connected layers are used. We will pass a flattened version of the feature maps to the first fully connected layer. The fully connected layers have 1568 nodes at input layer, 512, 256 nodes in the first and second hidden layers respectively, with ouput layer of 10 nodes (10 classes). So we have two fully connected layers of size 1568 x 512 followed up by 512 x 256 and 256 x 10.
 * The test accuracy is ***99.13%*** (***This result uses dropout probability of 20%***)
 * A `convNet_model.pth` file has been included. With this one can directly load the model state_dict and use for testing.
+
+<p align='center'>
+  <img src='https://github.com/NvsYashwanth/MNIST-Handwritten-Digits-Recognition/blob/master/images/MNIST%20digits%20Losses.png'>
+</p>
