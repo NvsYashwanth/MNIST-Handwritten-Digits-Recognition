@@ -41,5 +41,5 @@ Thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges.
 * A `convNet_model.pth` file has been included. With this one can directly load the model state_dict and use for testing.
 
 <p align='center'>
-  <img src='https://github.com/NvsYashwanth/MNIST-Handwritten-Digits-Recognition/blob/master/images/MNIST%20digits%20Losses.png'>
+  <img src='https://github.com/NvsYashwanth/MNIST-Handwritten-Digits-Recognition/blob/master/images/MNIST%20digits%20loss%20curve.png'>
 </p>
